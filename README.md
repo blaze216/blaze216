@@ -1,11 +1,11 @@
-<h1 align="center">Hi ğŸ‘‹, I'm Yusuf also known as Blaze</h1>
+<h1 align="center">Hi 👋, I'm Yusuf also known as Blaze</h1>
 <h3 align="center">A passionate full stack dreamer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaze216&label=Profile%20views&color=0e75b6&style=flat" alt="blaze216" /> </p>
 
-- ğŸ”­ Iâ€™m currently working on [LineS](lineroleplay.com)
+- 🔭 I’m currently working on [LineS](lineroleplay.com)
 
-- âš¡ Fun fact **I am bad at programming**
+- ⚡ Fun fact **I am bad at programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
